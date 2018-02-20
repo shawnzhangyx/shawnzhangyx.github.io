@@ -1,7 +1,8 @@
 ---
-layout: page 
+layout: default 
 title: Software 
 ---
+
 ### PePr 
 PePr is a ChIP-seq peak-calling and differential binding tool that I developed in Sartorlab when I was a PhD student.PePr's source code is hosted on [Github](https://github.com/shawnzhangyx/PePr). 
 
