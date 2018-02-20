@@ -2,6 +2,7 @@
 layout: page
 title: Research 
 ---
+
 ### Bioinformatics
 I am broadly interested in all kinds of biomedical research that involves challenges in data analysis. I love developing computational solutions (software) for these problems and applying them on real data. I believe that the ability to comprehensively analyze "big data" is a very important step towards understanding this complex system.
 
